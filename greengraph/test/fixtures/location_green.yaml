@@ -1,0 +1,12 @@
+- name: London
+  lat: 51.5073509
+  long: -0.1277583
+  green: 108032
+- name: Oxford
+  lat: 51.7520209
+  long: -1.2577263
+  green: 158198
+- name: Cambridge
+  lat: 52.205337
+  long: 0.121817
+  green: 158745
